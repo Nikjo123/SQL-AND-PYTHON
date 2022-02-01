@@ -1,0 +1,2 @@
+# SQL-AND-PYTHON
+I HAVE COMMENTED OUT LINE 225,226,227 and modified all the pages
